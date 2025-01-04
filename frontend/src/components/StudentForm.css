@@ -1,0 +1,23 @@
+.student-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #111213d5;
+    color: white;
+    margin-top: 10%;
+}
+
+.student-form input{
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.student-form button{
+    padding: 15px;
+    background-color: skyblue;
+}
